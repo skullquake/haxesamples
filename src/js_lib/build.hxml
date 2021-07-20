@@ -1,0 +1,3 @@
+-cp src
+lib
+-js ./out/lib/a.js
