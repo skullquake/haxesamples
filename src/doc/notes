@@ -1,0 +1,16 @@
+haxe -main Test [flag] [argument] .
+
+   Language     Flag   Argument                Result
+ActionScript 3 -as3    Directory Source
+C#             -cs     Directory Source + optional bytecode (.exe)
+C++            -cpp    Directory Source + optional binary (native)
+Flash          -swf    File      Bytecode (.swf)
+HL             -hl     File      Source
+Lua            -lua    File      Source
+Java           -java   Directory Source + optional bytecode (.jar)
+JavaScript     -js     File      Source
+Neko           -neko   File      Bytecode (.n)
+PHP            -php    Directory Source
+Python         -python File      Source
+HashLink       -hl     File      Bytecode (.hl)
+
